@@ -1,2 +1,2 @@
 # lvmautomation
-Suggestions are Welcom
+Suggestions are Welcome
